@@ -40,11 +40,11 @@ document.querySelectorAll('.accordion').forEach((element)=> {
 		 
 	})
 })
-
+//используем max-height и hidden чтобы манипулировать ответами
 //forEach вызывает функцию для каждого элемента
 //nextElementSibling берет следующий элемент (все облегчил спасибо разрабам)))
 //overflow:hidden; скрывает все элементы за пределами блока
-//используем max-height и hidden чтобы манипулировать ответами
+
 
 
 
