@@ -1,0 +1,20 @@
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.answers{
+	display: none;
+	color: green;
+}
+
+
+.btn {
+	border:none;
+	background-color: white; 
+}
+#ques1{
+	left:0;
+}
