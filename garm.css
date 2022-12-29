@@ -23,7 +23,12 @@ body{
 	max-height: 0;
 	overflow: hidden;
 	color: green;
+	margin-bottom: 10px;
 }
 .accordion{
 	padding: 10px;
+	background-color: #d3d3d3;
+	border:1.5px solid gray;
+	border-radius: 10px;
+	margin-bottom: 10px;
 }
